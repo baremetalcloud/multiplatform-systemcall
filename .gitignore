@@ -1,0 +1,9 @@
+/.gtm/
+/.gradle/
+/build/
+/.idea/
+/local.properties
+/*/build
+/*/*/build
+/*/*/*/build
+/*/*/*/*/build        
